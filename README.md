@@ -1,3 +1,3 @@
 # blackjack
 
-add description of blackjack here
+a rective multi-player blackjack server
